@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d07a88fe-de2b-4727-b343-d6cc8af172c2" name="Default Changelist" comment="" />
+    <list default="true" id="d07a88fe-de2b-4727-b343-d6cc8af172c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/manisha/csv/parser/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/manisha/csv/parser/MainClass.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lK4fSk2GwFvuXTR4JU2CDVsLQG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="foldersAlwaysOnTop" value="false" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,6 +32,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -91,10 +101,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1607662585919" />
-    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1609010734771">
+    <state x="149" y="0" key="SettingsEditor" timestamp="1609150179623">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1609010734771" />
+    <state x="149" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1609150179623" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1609152070310">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1609152070310" />
     <state x="335" y="72" width="609" height="536" key="find.popup" timestamp="1607332627438">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -105,12 +119,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/manisha/csv/parser/MainClass.java</url>
-          <line>9</line>
+          <line>12</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/manisha/csv/parser/MainClass.java</url>
-          <line>17</line>
+          <line>20</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>

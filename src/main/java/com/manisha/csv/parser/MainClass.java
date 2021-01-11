@@ -2,10 +2,13 @@ package com.manisha.csv.parser;
 
 import java.io.*;
 import com.opencsv.CSVWriter;
+import lombok.extern.slf4j.Slf4j;
 
+@Slf4j
 public class MainClass {
 
     public static void main(String[] args) {
+        Log.error("Exception  : {}, {}", "hello", "brother");
         try{
             read();
         }
